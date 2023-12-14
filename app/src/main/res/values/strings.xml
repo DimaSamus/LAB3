@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">lab3</string>
+    <string name="background">background</string>
+    <string name="calling">Calling ...</string>
+    <string name="endru_pic">Endru Pic</string>
+    <string name="mute">Mute</string>
+</resources>
